@@ -1,9 +1,13 @@
 Angular Bootstrap 3 Starter based on https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
 
 Step 1. ng new angular-bootstrap-example
+
 Step 2. npm install bootstrap --save
+
 Step 3. @import '~bootstrap/dist/css/bootstrap.min.css'; in src/style.css
+
 Step 4. npm install ngx-bootstrap --save
+
 Step 5. Import modules
 
 
