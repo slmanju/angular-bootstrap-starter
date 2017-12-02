@@ -1,4 +1,5 @@
-Angular Bootstrap 3 Starter based on https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+# Angular Bootstrap 3 Starter 
+based on https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
 
 Step 1. ng new angular-bootstrap-example
 
